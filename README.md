@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Online Examination System](https://github.com/Galiba-Shuchi/OES-25/blob/main/main.c)
 
-- 🌱 I’m currently learning **SAQ**
+- 🌱 I’m currently learning **SQA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Galiba-Shuchi/OES-25](https://github.com/Galiba-Shuchi/OES-25)
 
